@@ -2,7 +2,7 @@
 
 > Static Nested Class与Inner Class类似，但是使用static修饰，称为静态内部类。
 
-```
+```java
 class Outer {
 
   static class StaticNested {
